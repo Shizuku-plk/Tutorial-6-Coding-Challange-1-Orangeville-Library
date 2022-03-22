@@ -1,1 +1,2 @@
-# Tutorial-6-Coding-Challange-1-Orangeville-Library
+# Tutorial 6-Coding Challange-1
+## Orangeville Library Conference Room
